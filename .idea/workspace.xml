@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1f37cff-29d4-4dfa-92b3-3320dcda2e86" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MathOperations/Square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calculator/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Calculator/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/test_MathOperations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_MathOperations.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +87,7 @@
       <workItem from="1583260488569" duration="484000" />
       <workItem from="1584122645569" duration="16005000" />
       <workItem from="1586410674276" duration="1217000" />
-      <workItem from="1589144966187" duration="6118000" />
+      <workItem from="1589144966187" duration="6515000" />
     </task>
     <task id="LOCAL-00001" summary="Homework">
       <created>1589150225320</created>
@@ -113,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589151382659</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework">
+      <created>1589153087064</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589153087064</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,10 +140,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="442" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1580875803483" />
-    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1589151381532">
+    <state x="332" y="0" key="CommitChangelistDialog2" timestamp="1589153085591">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589151381532" />
+    <state x="332" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589153085591" />
     <state width="844" height="204" key="GridCell.Tab.0.bottom" timestamp="1580878429282">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -172,14 +176,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="844" height="204" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580878429282" />
+    <state x="129" y="55" key="MergeDialog" timestamp="1589153133198">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="55" key="MergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1589153133198" />
+    <state x="395" y="81" key="MultipleFileMergeDialog" timestamp="1589153230703">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="395" y="81" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1589153230703" />
     <state x="372" y="10" key="SettingsEditor" timestamp="1581535611979">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="372" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581535611979" />
-    <state x="550" y="103" key="Vcs.Push.Dialog.v2" timestamp="1589151392070">
+    <state x="550" y="103" key="Vcs.Push.Dialog.v2" timestamp="1589153201588">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="550" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589151392070" />
+    <state x="550" y="103" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589153201588" />
     <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586410674704">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
