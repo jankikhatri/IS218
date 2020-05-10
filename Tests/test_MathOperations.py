@@ -4,6 +4,8 @@ from MathOperations.Addition import Addition
 from MathOperations.Subtraction import Subtraction
 from MathOperations.Multiplication import Multiplication
 from MathOperations.Division import Division
+from MathOperations.SquareRoot import SquareRoot
+from MathOperations.Square import Square
 
 class MyTestCase(unittest.TestCase):
 
@@ -18,6 +20,12 @@ class MyTestCase(unittest.TestCase):
 
     def test_MO_divide(self):
         self.assertEqual(2, Division.divide(2, 1))
+
+    def test_MO_squareroot(self):
+        self.assertEqual(2, SquareRoot.sqroot(4))
+
+    def test_MO_square(self):
+        self.assertEqual(4, Square.square(2))
 
     def test_MO_sum_list(self):
         valuelist = [1, 2, 3]
